@@ -45,9 +45,9 @@ social:
 #  link: https://orcid.org/0000-0002-2473-0943
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
-#  icon_pack: ai
-#  link: files/mccall_cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/fei_cv.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
@@ -56,5 +56,5 @@ email: ""
 user_groups:
 - Undergraduate Students
 ---
-Yuewei Fei is a junior majoring in Computational Biology and Brain and Cognitive Science at the University of Rochester. She is currently working on analyzig microRNA expression data.
+Yuewei Fei is a senior majoring in Computational Biology and Brain and Cognitive Science at the University of Rochester. She is currently working on analyzing microRNA expression data.
 
